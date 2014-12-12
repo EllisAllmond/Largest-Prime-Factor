@@ -1,0 +1,23 @@
+/*main css file*/
+
+html , body {
+	height: 100%;
+}
+
+body {
+	position: relative;
+}
+
+#Container {
+	position: absolute;
+	text-align: center;
+	top: 25%;
+	left: 35%;
+}
+
+#LargestFactor {
+	position: relative;
+	padding-top: 25px;
+	padding-left: 5px;
+	font-size: 30px;
+}
